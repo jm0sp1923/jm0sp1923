@@ -14,7 +14,7 @@
 
 ###
 
-<h3 align="left">Languages | Frameworks | Tools I Use</h3>
+<h3 align="left">Languages, Frameworks & Tools  I Use</h3>
 
 ###
 
