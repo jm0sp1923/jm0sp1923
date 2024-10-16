@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is juan and I'm a Software Web Developer, from Colombia</p>
+<p align="left">My name is Juan Sebastian and I'm a Software Web Developer, from Colombia</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">✨ Creating bugs since 2021<br>📚 Currently learning about Microservices & Clean Code<br>🎯 Goals: To change the world<br>🎲 Fun fact: I like playing video games</p>
 
 ###
 
@@ -35,6 +35,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="Vue.js logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo"  />
+
 </div>
 
 ###
