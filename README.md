@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2021<br>📚 Currently learning about Microservices & Clean Code<br>🎯 Goals: To change the world<br>🎲 Fun fact: I like playing video games</p>
+<p align="left">✨ Creating bugs since 2021<br>📚 Currently learning about Microservices & Clean Code<br>🎯 Goals: To change the world<br>
 
 ###
 
