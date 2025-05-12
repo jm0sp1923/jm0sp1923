@@ -1,7 +1,7 @@
 <h1 align="left">Hello! 👋 How's it going?</h1>
 
 ###
-
+ ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jm0sp1923.visitor-badge&left_color=red&right_color=green&left_text=Hello%20Visitors)
 <p align="left">My name is Juan Sebastian and I'm a Software Web Developer, from Colombia</p>
 
 ###
